@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Github, Linkedin, Mail, ChevronDown, ArrowRight, Download } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import profilePhoto from '@/assets/profile-photo.jpg';
+import profilePhoto from '@/assets/profile-photo.png';
 
 const roles = [
   'AI/ML Engineer',

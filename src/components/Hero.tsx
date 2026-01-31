@@ -104,7 +104,7 @@ const Hero = () => {
                 className="text-muted-foreground hover:text-foreground"
                 asChild
               >
-                <a href="/resume.pdf" download>
+                <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
                   <Download className="w-4 h-4 mr-2" />
                   Resume
                 </a>

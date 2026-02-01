@@ -30,12 +30,12 @@ const socialLinks = [
   {
     icon: Linkedin,
     label: 'LinkedIn',
-    href: 'https://linkedin.com/in/haricharanreddy',
+    href: 'www.linkedin.com/in/hari-charan-reddy-2b5431330',
   },
   {
     icon: Github,
     label: 'GitHub',
-    href: 'https://github.com/haricharanreddy',
+    href: 'https://github.com/HARI-CHARAN122',
   },
 ];
 

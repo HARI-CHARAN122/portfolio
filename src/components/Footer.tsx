@@ -36,7 +36,7 @@ const Footer = () => {
           <div className="flex items-center justify-end gap-4">
             <div className="flex gap-3">
               <a
-                href="https://linkedin.com/in/haricharanreddy"
+                href="https://www.linkedin.com/in/hari-charan-reddy-2b5431330"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 glass-card hover:border-accent/50 transition-all"
@@ -44,7 +44,7 @@ const Footer = () => {
                 <Linkedin className="w-4 h-4 text-muted-foreground hover:text-accent transition-colors" />
               </a>
               <a
-                href="https://github.com/haricharanreddy"
+                href="https://github.com/HARI-CHARAN122"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 glass-card hover:border-accent/50 transition-all"

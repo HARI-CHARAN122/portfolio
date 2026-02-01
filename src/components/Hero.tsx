@@ -114,7 +114,7 @@ const Hero = () => {
             {/* Social Links */}
             <div className="flex gap-4 justify-center lg:justify-start animate-fade-in-up" style={{ animationDelay: '0.5s' }}>
               <a
-                href="https://www.linkedin.com/in/hari-charan-reddy-2b5431330"
+                href="https://linkedin.com/in/hari-charan-reddy-2b5431330"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 glass-card hover:border-accent/50 transition-all duration-300 group"

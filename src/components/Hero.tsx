@@ -114,7 +114,7 @@ const Hero = () => {
             {/* Social Links */}
             <div className="flex gap-4 justify-center lg:justify-start animate-fade-in-up" style={{ animationDelay: '0.5s' }}>
               <a
-                href="https://linkedin.com/in/haricharanreddy"
+                href="https://www.linkedin.com/in/hari-charan-reddy-2b5431330"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 glass-card hover:border-accent/50 transition-all duration-300 group"
@@ -122,7 +122,7 @@ const Hero = () => {
                 <Linkedin className="w-5 h-5 text-muted-foreground group-hover:text-accent transition-colors" />
               </a>
               <a
-                href="https://github.com/haricharanreddy"
+                href="https://github.com/HARI-CHARAN122"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 glass-card hover:border-accent/50 transition-all duration-300 group"

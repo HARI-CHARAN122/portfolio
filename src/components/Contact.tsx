@@ -30,7 +30,7 @@ const socialLinks = [
   {
     icon: Linkedin,
     label: 'LinkedIn',
-    href: 'www.linkedin.com/in/hari-charan-reddy-2b5431330',
+    href="https://www.linkedin.com/in/hari-charan-reddy-2b5431330",
   },
   {
     icon: Github,

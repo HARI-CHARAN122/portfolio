@@ -17,6 +17,19 @@ const experiences = [
     ],
   },
   {
+    title: 'Web Designer',
+    company: 'Locolock',
+    location: 'India',
+    period: 'Present',
+    current: true,
+    responsibilities: [
+      'Designing modern and responsive web interfaces',
+      'Creating user-friendly UI/UX experiences',
+      'Collaborating with development teams on design implementation',
+      'Building brand-consistent visual designs',
+    ],
+  },
+  {
     title: 'Tech Lead Intern',
     company: 'Viswam.AI (IIIT Hyderabad | Swecha | Meta)',
     location: 'Hyderabad, India',

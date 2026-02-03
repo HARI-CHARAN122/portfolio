@@ -61,7 +61,8 @@ const About = () => {
             <p className="text-muted-foreground leading-relaxed mb-6">
               Currently, I'm working as an <span className="text-accent">AI/ML Intern at Tech Zita Innovations</span>, 
               where I develop AI/ML solutions for real-world business use cases, build REST APIs for ML integration, 
-              and work extensively with LLMs and automation workflows.
+              and work extensively with LLMs and automation workflows. I'm also working as a <span className="text-accent">Web Designer at Locolock</span>, 
+              creating modern and responsive web interfaces with user-friendly UI/UX experiences.
             </p>
             <p className="text-muted-foreground leading-relaxed">
               I was also selected for the <span className="text-accent">Summer of AI program</span> at 
